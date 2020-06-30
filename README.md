@@ -28,8 +28,8 @@ Chapter One: the basics
 2. How to CSS: https://www.codecademy.com/learn/learn-css
 3. Create a quick side project, a short blog about yourself
 4. How to Javascript:
-   a. (SKIP this if you are confident with programming) https://www.codecademy.com/learn/introduction-to-javascript
-   b. (Definitely work through this as this has tons of example of vanilla JS websites) https://developer.mozilla.org/en-US/docs/Web/JavaScript
+   1. (SKIP this if you are confident with programming) https://www.codecademy.com/learn/introduction-to-javascript
+   2. (Definitely work through this as this has tons of example of vanilla JS websites) https://developer.mozilla.org/en-US/docs/Web/JavaScript
 5. Congrats, you have made it fundmentals of making a website
 
 Chapter Two: the MERN Stack
