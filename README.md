@@ -10,26 +10,29 @@ N - Node JS: a javascript runtime enviroment. A tool to allow one to run a serve
 The end goal of this guide is to familarize one with these basic technologies.
 
 What you need to know before hand.
-1. HTML
+1. HTML- descri
 2. CSS
 3. Javascript
 
 What will be helpful for understanding
 1. A cursory understanding of how the internet works
+    1. What is an IP address
+    2. what are some basic protocols for the internet
+    3. How does website send information and gets information from a user
 2. REST api
-
-START HERE
-    ||
-    ||
-    \/
 
 Chapter One: the basics
 1. How to HTML: https://www.codecademy.com/learn/learn-html
 2. How to CSS: https://www.codecademy.com/learn/learn-css
 3. Create a quick side project, a short blog about yourself
 4. How to Javascript:
-   1. (SKIP this if you are confident with programming) https://www.codecademy.com/learn/introduction-to-javascript
-   2. (Definitely work through this as this has tons of example of vanilla JS websites) https://developer.mozilla.org/en-US/docs/Web/JavaScript
-5. Congrats, you have made it fundmentals of making a website
+    1. (SKIP this if you are confident with programming) https://www.codecademy.com/learn/introduction-to-javascript
+    2. (Definitely work through this as this has tons of example of vanilla JS websites) https://developer.mozilla.org/en-US/docs/Web/JavaScript
+5. Congrats, you have learned the fundementals
+
 
 Chapter Two: the MERN Stack
+1. An introduction to MERN stack. Code alongside the tutorials
+    1. Brad Traversy's Free tutorial https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+    2. Brad Traversy's Paid tutorial https://www.udemy.com/course/mern-stack-front-to-back/
+2. Make modifications to the website from the past step
